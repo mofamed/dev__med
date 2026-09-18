@@ -8,24 +8,31 @@ Web Developer | Web Applications Developer | Desktop Applications Developer | AI
 
 ## A little bit about me
 
-💻  I'm a passionate developer focused on creating modern websites and web applications. 
-🖥️  I also develop desktop applications designed to solve real-world problems. 
-🌐  I enjoy building responsive, modern and user-friendly digital experiences. 
-🤖  I'm interested in Artificial Intelligence and AI-powered content creation. 
-🎬  I create AI-generated content including images, videos and creative digital projects. 
+💻  I'm a Web Developer passionate about creating modern and responsive websites. 
+🌐  I develop web applications with modern and user-friendly interfaces. 
+🖥️  I also develop desktop applications using Python and C#. 
+🗄️  I work with SQL databases including MySQL and SQLite. 
+🤖  I'm also an AI Content Creator interested in creating digital content with Artificial Intelligence. 
+🎬  I create AI-powered images, videos and creative digital content. 
 🌱  I'm continuously learning new technologies and improving my development skills. 
 🚀  I enjoy turning ideas into real and functional digital projects. 
-💡  My goal is to combine programming, creativity and artificial intelligence to build useful digital solutions.
+💡  My goal is to combine programming, creativity and Artificial Intelligence.
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default" alt="github stats"></br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=default">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats">
 </p>
 
-NOTE: These statistics are GitHub metrics and do not necessarily indicate my skill level or language proficiency.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=default" alt="Top Languages">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&theme=default" alt="GitHub Streak">
+</p>
+
+NOTE: GitHub statistics are automatically generated from my GitHub activity and repositories. They are GitHub metrics and do not necessarily indicate my skill level or language proficiency.
 
 ---
 
@@ -34,26 +41,44 @@ NOTE: These statistics are GitHub metrics and do not necessarily indicate my ski
 ### Web Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
 </p>
 
-### Backend & Database
+### Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,nodejs,mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=sql,mysql,sqlite" />
 </p>
 
-### Programming & Desktop Development
+### Programming & Desktop Application Development
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=python,cs" />
 </p>
 
-### Development Tools
+---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</p>
+## What I Build
+
+🌐 **Websites**
+
+I create modern, responsive and user-friendly websites for personal and business projects.
+
+💻 **Web Applications**
+
+I develop interactive web applications with dynamic interfaces, databases and management features.
+
+🖥️ **Desktop Applications**
+
+I build desktop applications using Python and C# with graphical user interfaces and database integration.
+
+🗄️ **Database Applications**
+
+I work with SQL, MySQL and SQLite to store, manage and organize application data.
+
+🤖 **AI Content**
+
+I create digital content using Artificial Intelligence, including images, videos and creative content for digital platforms.
 
 ---
 
@@ -61,65 +86,82 @@ NOTE: These statistics are GitHub metrics and do not necessarily indicate my ski
 
 <!-- PROJECTS:START -->
 
-* 🛒 **E-Commerce Web Applications** — Modern online stores with products, cart, orders and administration.
-* 📦 **Business Management Systems** — Applications for managing products, customers, suppliers, inventory and invoices.
-* 💻 **Desktop Applications** — Custom desktop software with modern graphical interfaces.
-* 📊 **Admin Dashboards** — Responsive dashboards for managing business data and operations.
-* 🤖 **AI Content Projects** — Creative projects using Artificial Intelligence for images, videos, podcasts and social media content.
-* 🌐 **Personal & Business Websites** — Modern responsive websites for individuals and businesses.
+* 🌐 **Web Development Projects** — Modern and responsive websites.
+* 💻 **Web Applications** — Interactive applications with databases and management systems.
+* 🖥️ **Desktop Applications** — Applications developed with Python and C#.
+* 🗄️ **Database Projects** — Projects using SQL, MySQL and SQLite.
+* 🤖 **AI Content Projects** — Creative projects using Artificial Intelligence for digital content.
+* 🎬 **AI Video & Image Content** — AI-powered visual content and creative experiments.
 
 <!-- PROJECTS:END -->
 
 ---
 
-## What I Love Building
+## Technologies I Use
 
-💻 Modern Websites
-🌐 Web Applications
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,cs,mysql,sqlite,git,github,vscode" />
+</p>
+
+---
+
+## My Focus
+
+🌐 Web Development
+💻 Web Applications
 🖥️ Desktop Applications
-🛒 E-Commerce Platforms
-📊 Management Systems
-🗄️ Database Applications
-🤖 AI-Powered Projects
-🎬 AI-Generated Content
-📱 Digital Content for Social Media
+🗄️ SQL Databases
+🤖 Artificial Intelligence
+🎬 AI Content Creation
+📚 Continuous Learning
+
+---
+
+## GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true" alt="GitHub Activity Graph">
+</p>
 
 ---
 
 ## Links
 
 <p align="center">
-  <a href="YOUR_PORTFOLIO_URL">
-    <img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="portfolio"/>
-  </a>
 
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="linkedin"/>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.icons8.com/fluent/32/000000/domain.png" alt="Portfolio"/>
   </a>
 
   <a href="YOUR_GITHUB_URL">
-    <img src="https://img.icons8.com/fluent/32/000000/github.png" alt="github"/>
+    <img src="https://img.icons8.com/fluent/32/000000/github.png" alt="GitHub"/>
+  </a>
+
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.icons8.com/color/32/000000/linkedin.png" alt="LinkedIn"/>
   </a>
 
   <a href="YOUR_INSTAGRAM_URL">
-    <img src="https://img.icons8.com/color/32/000000/instagram-new.png" alt="instagram"/>
+    <img src="https://img.icons8.com/color/32/000000/instagram-new.png" alt="Instagram"/>
   </a>
 
   <a href="YOUR_TIKTOK_URL">
-    <img src="https://img.icons8.com/color/32/000000/tiktok.png" alt="tiktok"/>
+    <img src="https://img.icons8.com/color/32/000000/tiktok.png" alt="TikTok"/>
   </a>
 
   <a href="YOUR_YOUTUBE_URL">
-    <img src="https://img.icons8.com/color/32/000000/youtube-play.png" alt="youtube"/>
+    <img src="https://img.icons8.com/color/32/000000/youtube-play.png" alt="YouTube"/>
   </a>
 
   <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.icons8.com/color/32/000000/gmail.png" alt="email"/>
+    <img src="https://img.icons8.com/color/32/000000/gmail.png" alt="Email"/>
   </a>
+
 </p>
 
 ---
 
 <p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
+  <b>Thanks for visiting my GitHub profile! 🚀</b>
 </p>
+
